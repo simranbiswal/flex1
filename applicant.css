@@ -1,0 +1,209 @@
+.div1{
+    background-color: darkblue;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    gap:60px;
+    height:150px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#id1{
+    background-color: lightskyblue;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id2{
+    background-color: lightskyblue;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id3{
+    background-color: lightskyblue;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id4{
+    background-color: lightskyblue;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id5{
+    text-align: left;
+    font-size: larger;
+    margin-top: 100px;
+}
+
+.div2{
+    background-color: red;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    gap:60px;
+    height:150px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#id6{
+    background-color: orange;
+    height: 60px;
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+    font-size: 35px;
+}
+
+#id7{
+    background-color: orange;
+    height: 60px;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+#id8{
+    background-color: orange;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id9{
+    background-color: orange;
+    height: 60px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id10{
+    background-color: orange;
+    height: 60px;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+
+#id11{
+    text-align: left;
+    font-size: larger;
+    margin-top: 100px;
+}
+
+.div3{
+    background-color: rgb(61, 43, 226);
+    color:white;
+    display:flex;
+    flex-direction: column;
+    gap:1px;
+    height:80px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: large;  
+}
+#id12{
+    text-align: left;
+    font-size: 20px;
+}
+
+#id13{
+    text-align: left;
+    font-size: 20px;
+}
+
+.div4{
+    background-color: lightgreen;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    gap:60px;
+    height:80px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.div5{
+    background-color: rgb(110, 89, 89);
+    color:white;
+    display:flex;
+    flex-direction: row;
+    gap:60px;
+    height:80px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
