@@ -2,6 +2,12 @@ body{
     background-color: skyblue;
 }
 
+.div2{
+    display:flex;
+    flex-direction: row;
+    gap:10px;
+}
+
 .div1{
     background-color: darkcyan;
     color:white;
